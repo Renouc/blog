@@ -5,7 +5,7 @@ tags:
   - node
 ---
 
-在 commonjs 中，全局变量中有 `__dirname` 可以获取当前的文件目录。
+在 commonjs 中，全局变量中有 `__dirname` 可以获取当前的目录地址。
 
 然而，如果你采用了 es module，那么 `__dirname` 就不存在了。
 
