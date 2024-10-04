@@ -3,6 +3,9 @@ title: es模块中如何模拟__dirname
 date: 2024-09-22 22:24:02
 tags:
   - node
+  - path
+categories:
+  - node
 ---
 
 在 commonjs 中，全局变量中有 `__dirname` 可以获取当前的目录地址。

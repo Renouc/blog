@@ -3,6 +3,8 @@ title: cookie
 date: 2024-09-21 14:27:48
 tags:
   - cookie
+categories:
+  - cookie
 ---
 
 Cookie 是直接存储在浏览器中的一小串数据。它们是 HTTP 协议的一部分，由 RFC 6265 规范定义。
