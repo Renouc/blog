@@ -1,12 +1,15 @@
 ---
 title: go语言之测试
 tags:
-  - go
+  - go测试
 categories:
-  - 单测
   - go
 date: 2024-10-30 11:58:35
 ---
+
+go 语言中的测试依赖 `go test` 命令。
+
+<!-- more -->
 
 ### go test
 

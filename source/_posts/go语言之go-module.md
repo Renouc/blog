@@ -7,6 +7,10 @@ categories:
 date: 2024-10-18 23:08:34
 ---
 
+go module 是 go 语言官方提供的依赖管理工具，它允许我们使用 go 语言进行依赖管理，并且可以管理多个版本的依赖。
+
+<!-- more -->
+
 ### go module 名称
 
 模块路径就是模块的规范名称，如 github.com/gin-gonic/gin。很多时候，模块名称加上 https:// 前缀就是源码仓库的地址。

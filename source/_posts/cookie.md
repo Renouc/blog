@@ -13,6 +13,8 @@ Cookie 通常是由 Web 服务器使用响应 Set-Cookie HTTP-header 设置的�
 
 document.cookie 属性用于读取和设置 Cookie。
 
+<!-- more -->
+
 ### 读取 cookie
 
 ```js

@@ -12,6 +12,8 @@ categories:
 
 然而，如果你采用了 es module，那么 `__dirname` 就不存在了。
 
+<!-- more -->
+
 我们可以借助 `import.meta.url` 和 `path` 模块来模拟这个变量。
 
 ```js

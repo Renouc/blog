@@ -7,6 +7,10 @@ categories:
 date: 2024-10-11 10:48:45
 ---
 
+go 语言支持并发，Go 语言的并发特性是它最大的优势。
+
+<!-- more -->
+
 ### goroutine
 
 Goroutine 是 Go 语言支持并发的核心，一个 Go 的程序中同时创建成百上千个 goroutine 是很普遍的，一个 goroutine 会以一个很小的栈开始其生命周期，一般只需要 2KB。
